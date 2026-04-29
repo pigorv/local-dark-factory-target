@@ -1,0 +1,5 @@
+com/example/users/UserRepository.class
+com/example/users/UsersApplication.class
+com/example/users/User.class
+com/example/users/PagedResponse.class
+com/example/users/UserController.class
